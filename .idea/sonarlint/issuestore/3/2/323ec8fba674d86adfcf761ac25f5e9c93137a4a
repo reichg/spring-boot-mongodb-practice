@@ -1,0 +1,29 @@
+
+n
+java:S1104"QMake recrd a static final constant or non-public and provide accessors if needed.(ğôÓ©8¿ï˜Ñõ1
+x
+java:S1104"VMake vesslterms a static final constant or non-public and provide accessors if needed.(©æòÃúÿÿÿÿ8¿ï˜Ñõ1
+z
+java:S1104"XMake feature_type a static final constant or non-public and provide accessors if needed.(¬›‘Êÿÿÿÿÿ8¿ï˜Ñõ1
+s
+java:S1104"QMake chart a static final constant or non-public and provide accessors if needed.(›šâÿÿÿÿÿ8¿ï˜Ñõ1
+n
+java:S1104"RMake latdec a static final constant or non-public and provide accessors if needed.(ú¯Ã
+8¿ï˜Ñõ1
+o
+java:S1104"RMake londec a static final constant or non-public and provide accessors if needed.(É´İ¾8¿ï˜Ñõ1
+x
+java:S1104"VMake gp_quality a static final constant or non-public and provide accessors if needed.(¸ìÕşÿÿÿÿ8¿ï˜Ñõ1
+n
+java:S1104"QMake depth a static final constant or non-public and provide accessors if needed.(Şó™ˆ8¿ï˜Ñõ1
+v
+java:S1104"YMake sounding_type a static final constant or non-public and provide accessors if needed.(ñşÀ8¿ï˜Ñõ1
+u
+java:S1104"SMake history a static final constant or non-public and provide accessors if needed.( äå×ÿÿÿÿÿ8¿ï˜Ñõ1
+o
+java:S1104"RMake watlev a static final constant or non-public and provide accessors if needed.(ŠœØ8¿ï˜Ñõ1
+y
+java:S1104"WMake coordinates a static final constant or non-public and provide accessors if needed.(şšÊøÿÿÿÿ8Àï˜Ñõ1
+x	java:S116"WRename this field "feature_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬›‘Êÿÿÿÿÿ8Àï˜Ñõ1
+v	java:S116"URename this field "gp_quality" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ìÕşÿÿÿÿ8Àï˜Ñõ1
+t	java:S116"XRename this field "sounding_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñşÀ8Áï˜Ñõ1
