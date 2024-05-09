@@ -9,6 +9,12 @@ import java.util.Optional;
 
 public interface ShipWreckService {
 
+    /**
+     * Return page of shipwreck collection items with optional page and sortby params.
+     * @param page
+     * @param sortBy
+     * @return  Page of shipwreck collection items
+     */
     Page<ShipWreck> findAllShipWrecksPaged(Optional<Integer> page, Optional<String> sortBy);
 
 

@@ -17,14 +17,23 @@ import java.util.Optional;
 @RestController
 public class ShipWreckController {
 
+    // Inject service
     @Autowired
     private ShipWreckService shipWreckService;
 
+
+    // When navigating to localhost home, redirect to swagger UI
     @GetMapping("/")
     public void home(HttpServletResponse response) throws IOException {
         response.sendRedirect("/swagger-ui.html");
     }
 
+    /**
+     * 10 items per page with optional page and sortby params.
+     * @param page
+     * @param sortBy
+     * @return 10 shipwreck collection items from mongo db.
+     */
     @GetMapping("/shipwrecks")
     public Page<ShipWreck> getAllShipWrecks(@RequestParam Optional<Integer> page, @RequestParam Optional<String> sortBy) {
         return shipWreckService.findAllShipWrecksPaged(page, sortBy);

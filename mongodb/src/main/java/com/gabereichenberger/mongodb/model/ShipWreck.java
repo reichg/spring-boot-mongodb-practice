@@ -9,6 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+// Collection name "shipwrecks" from the sample_geospatial database
 @Document(collection = "shipwrecks")
 public class ShipWreck {
 

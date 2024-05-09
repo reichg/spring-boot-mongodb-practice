@@ -13,3 +13,15 @@ Qmongodb/src/main/java/com/gabereichenberger/mongodb/service/ShipWreckService.ja
 Umongodb/src/main/java/com/gabereichenberger/mongodb/service/ShipWreckServiceImpl.java,4\c\4c1db3c2095cf7419851e74940121c6e58c83b5c
 ‡
 Wmongodb/src/main/java/com/gabereichenberger/mongodb/repository/ShipWreckRepository.java,c\1\c1a85cc544763adde26d6a00b1c48b11c09483d6
+s
+Csrc/main/java/com/gabereichenberger/mongodb/MongodbApplication.java,c\c\cccb65c53dce8db5fd42baf53fea829d2f2c86c8
+
+Osrc/main/java/com/gabereichenberger/mongodb/controller/ShipWreckController.java,d\1\d1882c9526b2aa923363944a4ae0b890d500aed3
+y
+Isrc/main/java/com/gabereichenberger/mongodb/service/ShipWreckService.java,6\4\64e50dd6ab966bbe7d52492d65c3f1ad4e89365d
+}
+Msrc/main/java/com/gabereichenberger/mongodb/service/ShipWreckServiceImpl.java,8\1\81f98cdbf11fd15733b3a7ad60a5c649263471cb
+p
+@src/main/java/com/gabereichenberger/mongodb/model/ShipWreck.java,c\4\c494459ac1a902e7bb71f139487aed82ae72d6d8
+
+Osrc/main/java/com/gabereichenberger/mongodb/repository/ShipWreckRepository.java,7\f\7fbf5203620fe1b3eb0b36e6f8d109e498c6043e
