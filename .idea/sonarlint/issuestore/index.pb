@@ -25,3 +25,7 @@ p
 @src/main/java/com/gabereichenberger/mongodb/model/ShipWreck.java,c\4\c494459ac1a902e7bb71f139487aed82ae72d6d8
 
 Osrc/main/java/com/gabereichenberger/mongodb/repository/ShipWreckRepository.java,7\f\7fbf5203620fe1b3eb0b36e6f8d109e498c6043e
+ƒ
+Ssrc/test/java/com/gabereichenberger/mongodb/controller/ShipWreckControllerTest.java,f\d\fd1614cfaa0adaa750ca5774c93d09318d5f5a58
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
